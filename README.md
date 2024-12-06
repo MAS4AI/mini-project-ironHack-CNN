@@ -37,7 +37,7 @@ Follow these steps to set up the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/eurosat-classification.git
+   git clone [https://github.com/your-username/eurosat-classification.git](https://github.com/MAS4AI/mini-project-ironHack-CNN)
    cd eurosat-classification
 2. Install dependencies:
 
